@@ -1,0 +1,10 @@
+Superstore Sales Dashboard – Key Business Insights
+
+1. Consumer segment generates the highest sales (48%).
+2. Standard Class is the most preferred shipping mode (0.50M in sales).
+3. Phones, Chairs, and Binders are top-selling subcategories.
+4. December consistently shows peak sales and profit across years.
+5. States like Texas and North Carolina show losses and need attention.
+6. Online and COD are the most used payment methods.
+
+These insights help identify strong performing areas and where strategic improvements are needed.
