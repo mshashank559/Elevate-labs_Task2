@@ -44,7 +44,7 @@ To design a visual story that highlights:
 
 ## 📁 Project Structure
 
----
+```bash
 
 superstore-sales-dashboard/
 │
@@ -64,7 +64,7 @@ superstore-sales-dashboard/
 └── insights_summary.txt                 # Key business insights in plain text
 
 
----
+```
 
 ## ✅ Deliverables
 
