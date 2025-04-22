@@ -75,7 +75,5 @@ superstore-sales-dashboard/
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, feel free to reach out at:  
-📧 your.email@example.com
+## 🙌 Author
+Shashank Mishra
